@@ -6,7 +6,7 @@ IBM watsonx Orchestrate (wxO) is a generative AI and automation solution designe
 
 ## Labs
 
-**[Decision](wxo%20Decision.pdf)**: 
+**[Decision](wxo%20Decision.pdf)**
 
 In this lab, you will implement the Purchase Approval Decision Skill which is part of the overall Solution. You will learn how to create a Project that uses the decision feature of wxO.
 Focus Corp's AI Assistant utilizes Purchase Approval Decision to determine whether a purchase request requires approval from managers. The decision will be based on the item cost and current yearly spending.
