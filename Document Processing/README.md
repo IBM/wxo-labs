@@ -6,12 +6,15 @@ IBM watsonx Orchestrate (wxO) is a generative AI and automation solution designe
 
 ## Labs
 
-**[IT Accessory Hub Scenario: An End-to-End Demonstration](wxo%20IT%20Accessory%20Hub%20Scenario%20End-to-End%20Demo.pdf)**: 
+**[Document Processing](wxo%20IT%20Accessory%20Hub%20Scenario%20End-to-End%20Demo.pdf)**: 
 
-This lab represents a simplified version of a unique solution (called IT Accessory Hub) for Focus Corp employees to order IT accessories, which is part of the wider procurement domain. Although intended to be realistic, it is fictitious, simplified, and meant to showcase key aspects of IBM watsonx Orchestrate (wxO) easily and quickly.
+In this lab, you will implement a simplified version of the Document Processing Workflow used in the Solution to extract quote information received from vendors when users order a part not in the catalog. In the simplified version of the Document processing Workflow, you will use the advanced document processing features of wxO and Generative AI.
 
-This scenario highlights selected capabilities across wxO and showcases how combining these capabilities can build an end-to-end business solution that helps automate, simplify, and accelerate work.
-This lab focuses on the business user experience of ordering IT accessories, not developing the solution itself. Other labs are available that examine how the IT Accessory Hub solution is built.
+You will follow these steps to create a Workflow that extracts supplier names and prices from quotes received from multiple potential suppliers:
+1.	Add relevant skills that you will use in this lab to your personal skillset
+2.	Create a Generative AI skill to extract the supplier name and quote amount from quote documents
+3.	Create a document processing workflow
+4.	Test the Workflow
 
-**Approximate Duration**: 1,5 hours
+**Approximate Duration**: 2 hours
 
