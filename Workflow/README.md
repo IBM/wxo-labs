@@ -8,10 +8,7 @@ IBM watsonx Orchestrate (wxO) is a generative AI and automation solution designe
 
 **[IT Accessory Hub Scenario: An End-to-End Demonstration](wxo%20IT%20Accessory%20Hub%20Scenario%20End-to-End%20Demo.pdf)**: 
 
-This lab represents a simplified version of a unique solution (called IT Accessory Hub) for Focus Corp employees to order IT accessories, which is part of the wider procurement domain. Although intended to be realistic, it is fictitious, simplified, and meant to showcase key aspects of IBM watsonx Orchestrate (wxO) easily and quickly.
-
-This scenario highlights selected capabilities across wxO and showcases how combining these capabilities can build an end-to-end business solution that helps automate, simplify, and accelerate work.
-This lab focuses on the business user experience of ordering IT accessories, not developing the solution itself. Other labs are available that examine how the IT Accessory Hub solution is built.
+In this lab, you will implement a subset of the Order Computer Accessory Workflow Skill. Specifically, you will author the happy path of the Order Computer Accessory Workflow. The happy path is part of the complete Workflow and does not include not-in-catalog order processing. The ordered part is available in the catalog and only requires manager approval.
 
 **Approximate Duration**: 1,5 hours
 
