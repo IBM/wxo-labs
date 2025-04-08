@@ -6,7 +6,7 @@ IBM watsonx Orchestrate (wxO) is a generative AI and automation solution designe
 
 ## Labs
 
-**[IT Accessory Hub Scenario: An End-to-End Demonstration](wxo%20IT%20Accessory%20Hub%20Scenario%20End-to-End%20Demo.pdf)**: 
+**[IT Accessory Hub Scenario: An End-to-End Demonstration](wxo%20IT%20Accessory%20Hub%20Scenario%20End-to-End%20Demo.pdf)**
 
 This lab represents a simplified version of a unique solution (called IT Accessory Hub) for Focus Corp employees to order IT accessories, which is part of the wider procurement domain. Although intended to be realistic, it is fictitious, simplified, and meant to showcase key aspects of IBM watsonx Orchestrate (wxO) easily and quickly.
 

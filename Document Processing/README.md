@@ -6,7 +6,7 @@ IBM watsonx Orchestrate (wxO) is a generative AI and automation solution designe
 
 ## Labs
 
-**[Document Processing](wxo%20IT%20Accessory%20Hub%20Scenario%20End-to-End%20Demo.pdf)**: 
+**[Document Processing](wxo%20Document%20Processing.pdf)**
 
 In this lab, you will implement a simplified version of the Document Processing Workflow used in the Solution to extract quote information received from vendors when users order a part not in the catalog. In the simplified version of the Document processing Workflow, you will use the advanced document processing features of wxO and Generative AI.
 
